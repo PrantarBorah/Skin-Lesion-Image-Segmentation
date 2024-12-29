@@ -1,6 +1,6 @@
 # Skin-Lesion-Image-Segmentation
 
-# README: Loading and Running the Skin Lesion Segmentation Code
+# Loading and Running the Skin Lesion Segmentation Code
 
 ## Project Overview
 This README provides instructions on how to load and run the Attention U-Net code for skin lesion segmentation using the ISIC 2018 dataset.
